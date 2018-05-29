@@ -105,10 +105,9 @@ p {
 	font-size: 1.8rem;
 }
 
-p .fa-user, 
-p .fa-laptop,
 #about img {
-	font-size: 8rem;
+	width: 100px;
+	height: 100px;
 	margin-bottom: 17px;
 }
 
